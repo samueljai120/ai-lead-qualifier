@@ -1,7 +1,17 @@
-# CLS Corp — AI Lead Qualification Agent
+<p align="center">
+  <img src="assets/cls-logo.png" alt="CLS Corp" width="80" />
+</p>
 
-> **Portfolio Demo** · Enterprise-grade AI agent for B2B lead qualification,
-> enrichment, and personalised outreach generation.
+<h1 align="center">AI Lead Qualification Agent</h1>
+
+<p align="center">
+  <strong>Enterprise-grade AI agent for B2B lead qualification, enrichment, and personalised outreach generation.</strong><br>
+  Built by <a href="https://github.com/samueljai120">CLS Corp</a> — AI & Automation Agency
+</p>
+
+---
+
+![Lead Qualifier Demo](assets/demo-output.png)
 
 ---
 
