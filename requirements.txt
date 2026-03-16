@@ -1,0 +1,21 @@
+# CLS Corp — AI Lead Qualification Agent
+# Python 3.11+
+
+# HTTP client (async, HTTP/2, connection pooling)
+httpx[http2]>=0.27.0
+
+# HTML parsing / web scraping
+beautifulsoup4>=4.12.0
+lxml>=5.2.0           # faster BS4 parser
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# CLI output formatting (optional — used for rich tables in future)
+rich>=13.7.0
+
+# Async utilities
+anyio>=4.4.0
+
+# Type checking support (runtime)
+typing-extensions>=4.11.0
